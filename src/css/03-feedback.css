@@ -1,10 +1,10 @@
 .feedback-form {
   display: flex;
   flex-direction: column;
-  max-width: 480px;
-  padding: 12px;
+  max-width: 500px;
+  padding: 15px;
   background-color: #fff;
-  border: 1px solid rgba(0, 0, 0, 0.12);
+  border: 1px solid rgba(0, 0, 0, 0.1);
   border-radius: 4px;
 }
 
